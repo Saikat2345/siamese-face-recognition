@@ -1,0 +1,4 @@
+ipykernel
+tensorflow
+opencv-python
+matplotlib
